@@ -1,4 +1,3 @@
-library(cba)
 
 corr_binary = read.csv("./corr_binary.csv")
 rownames(corr_binary) = corr_binary$X
